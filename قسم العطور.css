@@ -1,0 +1,28 @@
+*{
+ margin: 0px;
+ padding: 0px;
+ box-sizing: border-box;
+}
+body{
+    background: #ececec;
+
+}
+
+
+
+.containr{
+    height: 85vh;
+    width: 80vw;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    background: #ececec;
+    border-radius: 3px;
+    box-shadow: -10px  -10px 15px rgba(255,255,255,0.5),
+    10px 10px 15px  rgba(70,70,70,0.12);
+}
+
+
+
+
